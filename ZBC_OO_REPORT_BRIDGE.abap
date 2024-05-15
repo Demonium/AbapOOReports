@@ -1,8 +1,7 @@
 ***************************************************************************
 * Program:    ZCRM_OO_REPORT_BRIDGE                                       *
 * Date:       03.01.2014                                                  *
-* Programmer: Ladislav Grédi, gredi@oxyggen.com                           *
-*             Oxyggen s.r.o.                                              *
+* Programmer: Oxyggen s.r.o.                                              *
 *                                                                         *
 ***************************************************************************
 * Description of ABAP’s function:                                         *
